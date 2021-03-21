@@ -1,0 +1,2 @@
+D:\VSPROJECT\c.4\Debug\c.4.exe
+D:\VSPROJECT\c.4\Debug\c.4.pdb
