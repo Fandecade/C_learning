@@ -1,0 +1,2 @@
+D:\VSPROJECT\c8\Debug\c8.exe
+D:\VSPROJECT\c8\Debug\c8.pdb
