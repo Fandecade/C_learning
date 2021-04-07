@@ -1,0 +1,8 @@
+﻿  c.17.c
+D:\VSPROJECT\c.17\c.17.c(156,20): error C2332: “struct”: 缺少标记名
+D:\VSPROJECT\c.17\c.17.c(156,25): error C2146: 语法错误: 缺少“)”(在标识符“s”的前面)
+D:\VSPROJECT\c.17\c.17.c(156,25): error C2061: 语法错误: 标识符“s”
+D:\VSPROJECT\c.17\c.17.c(156,25): error C2059: 语法错误:“;”
+D:\VSPROJECT\c.17\c.17.c(156,26): error C2059: 语法错误:“)”
+D:\VSPROJECT\c.17\c.17.c(157,1): error C2449: 在文件范围内找到“{”(是否缺少函数头?)
+D:\VSPROJECT\c.17\c.17.c(162,1): error C2059: 语法错误:“}”

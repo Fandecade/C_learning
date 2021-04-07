@@ -1,0 +1,2 @@
+D:\VSPROJECT\c.17\Debug\c.17.exe
+D:\VSPROJECT\c.17\Debug\c.17.pdb
