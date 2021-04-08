@@ -1,0 +1,2 @@
+D:\VSPROJECT\c.20\Debug\c.20.exe
+D:\VSPROJECT\c.20\Debug\c.20.pdb
